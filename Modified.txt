@@ -1,0 +1,6 @@
+This is a modified File
+Bubble Sort
+Insertion Sort
+Quick Sort
+Merge Sort
+Heap Sort
