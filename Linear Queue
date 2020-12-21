@@ -8,10 +8,10 @@ int front,rear;
 int SIZE,arr[20];
 void main()
 {
-	int i;
+	int i;			// Declaring Variables
 	int choice;
 	front=rear=-1;
-	printf("Enter the size of the Queue\n");
+	printf("Enter the size of the Queue\n");   // Input Size of Queue from the User
 	scanf("%d",&SIZE);
 	while(1)
 	{
@@ -81,3 +81,4 @@ void display()
 		printf("\nFront=%d, Rear=%d",front,rear);
 	}
 }
+//Program is Successfully Executed
