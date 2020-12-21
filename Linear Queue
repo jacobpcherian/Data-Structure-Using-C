@@ -1,4 +1,4 @@
-//Linear Queue using Arrays in C
+//Perform Linear Queue using C Program
 #include<stdio.h>
 #include<stdlib.h>
 void enqueue();
